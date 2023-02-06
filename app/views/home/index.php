@@ -1,3 +1,3 @@
-<div class="container">
-    <h1>Selamat Datang di Website Saya</h1>
+<div class="container mt-2">
+    <h2>Selamat Datang di Website Pendaftaran, <?= $data['nama']; ?></h2>
 </div>
